@@ -1,6 +1,5 @@
 flask 
 numpy 
 gunicorn 
-sklearn 
 joblib
-josn 
+
